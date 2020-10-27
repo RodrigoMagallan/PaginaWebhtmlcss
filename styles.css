@@ -1,0 +1,26 @@
+h1 { /*Dar estilo por etiqueta*/
+color: #8b8b8bcc;
+
+}
+p {
+color: #46484c; 
+
+}
+button{
+    color: #fff;
+    background-color: #f0c3f8;
+}
+body{
+    background-color:#c3f7f8;
+}
+
+
+/*#header{ /*dar estilo por id
+
+
+}
+
+.header{ /*dar estilo por clase
+
+
+}*/
